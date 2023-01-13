@@ -1,0 +1,6 @@
+Ansar,Rebook Shirt,Dress Shirt,1400,1,20
+Ansar,KurtaDesigns,Kurta,9000,1,10
+Ansar,Adidas Shoes,Adidas,1800,1,20
+Ansar,Rebook Shirts,T Shirt,4500,1,10
+Ansar,BaseBall Cap,Girls Cap,2700,1,10
+Ansar,Shoes,Baby Shoes,4000,1,20

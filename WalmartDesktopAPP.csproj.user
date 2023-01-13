@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\AddProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\AdminMainPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\BuyProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\ChangeAdminAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\customerHomeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomersCuurrentOffers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\DeleteProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\GenerateBill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\SignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\UpdateProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\ViewCustomers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\ViewProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+Muhammad Danish,33202,Admin,923123213
+Ali,1234,Customer,912456765
+Hassan,123,Admin,987612098
+Ali,123,Admin,9145678098
+Hassan Ali,1209,Customer,914678543
+Asim,1200,Customer,908765411
+Muhammad Ibraheem,169,Customer,908765432
+Abdullah,6248,Customer,908765431
+Ansar,1234,Customer,908760988
+Aysha,0909,Customer,965750432
+Bilal,0808,Customer,3109876543
+Ahmad,7654,Customer,098765432

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WalmartDesktopAPP.BL.CustomerBL" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.BL.SpecificCustomerBL" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\SpecificCustomerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.DL.CustomerDL" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAFIAgAgAAAJAABAIABAAAAAIAAAAAAEQAAIIAAAE=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.DL.MuserDL" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQAAABAAAAAAACAICAAAQIAAAAAAAAAAAAQQA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.DL.ProductDL" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAAAAAAAAAACAAAQiAACAAGCYAAAAAAAAAAAQ=</HashCode>
+      <FileName>DL\ProductDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.AddProducts" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAASACAAAJAIgECABAACAAAAAAAAAAAABwBAACA=</HashCode>
+      <FileName>GUI\AddProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.AdminForm" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcAUM4AQASQBAAhAgAqEAQASSAEBgADEYgEAIQRgACA=</HashCode>
+      <FileName>GUI\AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.AdminMainPage" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAQACAAABAAAACAAAECAAABAAAAIAAAAQAAACA=</HashCode>
+      <FileName>GUI\AdminMainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.BuyProduct" Collapsed="true">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FjAAABcQACAAABIgAAKCAABCAQAAiAEAgEhAAQhgADA=</HashCode>
+      <FileName>GUI\BuyProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.ChangeAdminAccount" Collapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIhIACCAAABAAAACAQAACAAAAAACAAQAAAQhCAAg=</HashCode>
+      <FileName>GUI\ChangeAdminAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.CustomerForm" Collapsed="true">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIwAQgWQCwEgiAAiGEIASwAAAIAgCwAEAAQJAAKg=</HashCode>
+      <FileName>GUI\CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.customerHomeForm" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAQACAAABAAAACAAAACAAAAAAAAEAAAAQAAACA=</HashCode>
+      <FileName>GUI\customerHomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.CustomersCuurrentOffers" Collapsed="true">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QDAAIlAQASECBRCAQQCaSABSIIEAUAAAcCBgAQDBAoA=</HashCode>
+      <FileName>GUI\CustomersCuurrentOffers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.DeleteProducts" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAhIQgCAEABIAAASAAAACAAAAgAAAAAAAAQAAAgA=</HashCode>
+      <FileName>GUI\DeleteProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.GenerateBill" Collapsed="true">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgEAJFAQACBCgRAgAACADAASABgAAAAAMEAAAQgAACA=</HashCode>
+      <FileName>GUI\GenerateBill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.SignInForm" Collapsed="true">
+    <Position X="12.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBABIJAACCAgQQAAAGCAIAQCAAABiAAAAAgIBYBAAGE=</HashCode>
+      <FileName>GUI\SignInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.SignUpForm" Collapsed="true">
+    <Position X="7" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAhAAACABAAAARACAYAASAAAAAAABAAgAISJAAAI=</HashCode>
+      <FileName>GUI\SignUpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.UpdateProducts" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAQECAEABIAAACAAwACAAAAIAAIAAgAQwFgACA=</HashCode>
+      <FileName>GUI\UpdateProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.ViewCustomers" Collapsed="true">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAFAQASAAABIgJACECAAGQAAACACAoECAAQAAAiA=</HashCode>
+      <FileName>GUI\ViewCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.GUI.ViewProducts" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAJMQQCAAABIAAACAAAAKgAAAgAAAgEgAAQFAADg=</HashCode>
+      <FileName>GUI\ViewProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.BL.Muser" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAACAAQAAgAEQAAAAMAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalmartDesktopAPP.BL.ProductBL" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAABAAAAAQgAAgAIBAIAAAQ=</HashCode>
+      <FileName>BL\ProductBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

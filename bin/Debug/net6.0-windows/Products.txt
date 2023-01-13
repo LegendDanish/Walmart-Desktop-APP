@@ -1,0 +1,14 @@
+Fast Food,Chicken Tikka Pizza,1200,2,0
+Food,ice cream(Mango),170,2,5
+Cosmatics,FairLovely(Cream),200,10,0
+Food,Noddels,50,10,0
+Cosmatics,FaceWash(Pounds),300,20,0
+Fast Food,Burger(Chicken),120,2,0
+Rebook Shirts,T Shirt,1200,10,0
+Adidas Shoes,Adidas,4000,10,0
+Rebook Shirt,Dress Shirt,50000,12,0
+Nike Suit,Dress Suit,100000,10,0
+KurtaDesigns,Kurta,20000,5,0
+BaseBall Cap,Girls Cap,4000,10,0
+Ladder Caps,Cap,4000,10,0
+Shoes,Baby Shoes,10000,10,0
